@@ -1,4 +1,4 @@
-# Engineering Express 
+# Engineering Express ADMIN & User App
 
 Engineering Express is a secure educational app designed for students to
 access notes and learning materials safely.
